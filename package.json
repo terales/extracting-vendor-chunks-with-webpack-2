@@ -1,0 +1,17 @@
+{
+  "name": "answer-so-44690377",
+  "version": "1.0.0",
+  "description": "Answer for a question https://stackoverflow.com/q/44633037/1363799",
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "author": "Aleksander Terekhov (https://www.terales.info/)",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "expose-loader": "0.7.3",
+    "jquery": "3.2.1",
+    "tether": "1.4.0",
+    "webpack": "3.0.0"
+  }
+}
